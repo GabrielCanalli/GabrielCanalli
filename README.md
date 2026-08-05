@@ -15,7 +15,7 @@
 - 🗄️ Banco de Dados
 - ⚛️ Desenvolvimento Full Stack
 
-🚀 Sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedor.
+🌱 Sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedor.
 
 ###
 
