@@ -4,7 +4,7 @@
 
 ## 🎯 Sobre mim
 
-🎓 Cursando **Sistemas de Informação** na **Associação Educacional Dom Bosco - RJ**
+🎓 Cursando **Sistemas de Informação** na **Associação Educacional Dom Bosco - RJ (Atualmente 4° período)**
 
 👨‍💻 Transformando ideias em código e aprendendo algo novo todos os dias.
 
