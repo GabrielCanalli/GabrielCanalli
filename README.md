@@ -1,6 +1,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&width=700&lines=👨‍💻+Hello+World!;💻+Estudante+de+Sistemas+de+Informação;🚀+Desenvolvedor+Full+Stack;☕+Java+|+Spring+Boot+|+.NET" />
 </p>
+
 ## 🎯 Sobre mim
 
 🎓 Cursando **Sistemas de Informação** na **Associação Educacional Dom Bosco - RJ**
