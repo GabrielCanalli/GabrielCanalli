@@ -2,7 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&width=700&lines=👨‍💻+Hello+World!;💻+Estudante+de+Sistemas+de+Informação;🚀+Desenvolvedor+Full+Stack;☕+Java+|+Spring+Boot+|+.NET" />
 </p>
 
-<h2 align="left">🎓 Olá! Meu Nome é Gabriel, Eu sou estudante de Sistemas de informação na Associação Educacional Dom Bosco-RJ</h2>
+## 🚀 Sobre mim
+
+🎓 Cursando **Sistemas de Informação** na **Associação Educacional Dom Bosco - RJ**
+
+👨‍💻 Transformando ideias em código e aprendendo algo novo todos os dias.
+
+💡 Atualmente explorando:
+- ☕ Java & Spring Boot
+- 🔷 .NET
+- 🌐 APIs REST
+- 🗄️ Banco de Dados
+- ⚛️ Desenvolvimento Full Stack
+
+🚀 Sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedor.
 
 ###
 
