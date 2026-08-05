@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Gabriel, I’m a Systems Analysis and Development student interested in Cybersecurity, Cloud Computing, Artificial Intelligence, and Machine Learning.</h2>
+<h2 align="left">🎓 Olá! Meu Nome é Gabriel, Eu sou estudante de Sistemas de informação na Associação Educacional Dom Bosco-RJ</h2>
 
 ###
 
