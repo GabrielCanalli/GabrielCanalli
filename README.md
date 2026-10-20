@@ -79,7 +79,7 @@
   <a href="https://www.facebook.com/gabriel.canalli.75" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3B5998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="mailto:gabrielcanalli9@gmail.com" target="_blank">
+  <a href="mailto:gabriel.canallibarbosa.ti@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://x.com/GabrielCanalli1" target="_blank">
